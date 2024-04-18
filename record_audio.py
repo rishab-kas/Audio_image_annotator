@@ -19,7 +19,7 @@ if not os.path.exists(audio_directory):
 
 # Audio recording settings
 sample_rate = 44100
-duration = 20  # maximum duration in seconds
+duration = 30  # maximum duration in seconds
 amplification_factor = 1.5  # Increase or adjust as needed for volume
 recording = None  # To hold the recording array
 
